@@ -1,0 +1,30 @@
+_repo: Advice-to-a-wife-and-mother-in-two-parts-b-Embracing-advice-to-a-wife-and-advice-to-a-mother_71887
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chavasse, Pye Henry
+    birthdate: 1810
+    deathdate: 1879
+    gutenberg_agent_id: '2106'
+    url: http://www.gutenberg.org/2009/agents/2106
+description: ''
+gutenberg_issued: '2023-10-15'
+identifiers:
+  gutenberg: '71887'
+language: en
+pgterms:marc904: https://archive.org/details/advicetowifemoth00chav
+pgterms:marc905: 20191220234847chavasse
+pgterms:marc906: '1881'
+pgterms:marc907: US
+production_note: Richard Tonsing, MFR, and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aPhiladelphia :$bJ. B. Lippincott & Co., $c1881.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Advice to a wife and mother in two parts : $b Embracing advice to a wife,
+  and advice to a mother'
+url: http://www.gutenberg.org/ebooks/71887
