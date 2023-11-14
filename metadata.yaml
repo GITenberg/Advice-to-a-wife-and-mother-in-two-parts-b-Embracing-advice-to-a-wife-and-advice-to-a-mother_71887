@@ -1,5 +1,8 @@
 _repo: Advice-to-a-wife-and-mother-in-two-parts-b-Embracing-advice-to-a-wife-and-advice-to-a-mother_71887
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71887-h/images/cover.jpg
 creator:
   author:
     agent_name: Chavasse, Pye Henry
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '2106'
     url: http://www.gutenberg.org/2009/agents/2106
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71887#Advice-to-a-wife-and-mother-in-two-parts-b-Embracing-advice-to-a-wife-and-advice-to-a-mother
 gutenberg_issued: '2023-10-15'
 identifiers:
   gutenberg: '71887'
